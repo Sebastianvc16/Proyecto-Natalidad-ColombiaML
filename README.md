@@ -1,30 +1,29 @@
-# Análisis de reducción de tasas de natalidad en Colombia (2019–2022)
+# Análisis de la reducción de tasas de natalidad en Colombia (2019–2022)
 
-Este proyecto analiza la disminución de la natalidad en Colombia usando técnicas de aprendizaje automático. Fue desarrollado como trabajo de grado de la Especialización en Analítica y Ciencia de Datos (Universidad de Antioquia, 2024).
+Este proyecto fue desarrollado como trabajo de grado de la Especialización en Analítica y Ciencia de Datos de la Universidad de Antioquia (2024).
 
-## 📊 Objetivo
-Identificar patrones y variables que influyen en la reducción de la tasa de natalidad en Colombia mediante modelos de clasificación.
+## 🎯 Objetivo
+Identificar patrones y variables que influyen en la reducción de la natalidad en Colombia aplicando técnicas de machine learning.
 
-## 🧰 Herramientas
+## 🔧 Herramientas utilizadas
 - Python (Pandas, Scikit-Learn, Matplotlib)
 - Power BI
-- Jupyter Notebooks / .py scripts
 - Visualización de datos
-- Modelos de clasificación supervisada
+- Modelos de clasificación
+- Procesos ETL
 
-## 🧪 Resultados
-Se aplicaron modelos de machine learning para predecir tendencias, se visualizaron patrones relevantes en Power BI, y se identificaron variables clave.
+## 📈 Resultados
+Se entrenaron modelos predictivos y se crearon dashboards interactivos para mostrar los hallazgos clave. El análisis permitió identificar variables relevantes y generar reportes visuales claros.
 
-## 📁 Estructura del repositorio
-- `natalidad_modelo.py`: Código del modelo
-- `/img`: Visualizaciones del análisis
-- `/data`: Datos anonimizados
-- `/docs`: Trabajo completo en PDF
+## 📁 Estructura
+- `natalidad_modelo.py`: código fuente del modelo de machine learning
+- `Proyecto Final_Natalidad.pdf`: documento con todo el análisis y visualizaciones
 
 ## 📚 Referencia académica
-Largo Quintero, L. V., & Valencia Cadena, S. (2024). *Análisis de reducción de tasas de natalidad en Colombia: un enfoque con técnicas de aprendizaje automático*. Universidad de Antioquia. Disponible en [Repositorio UdeA](http://bibliotecadigital.udea.edu.co)
+Largo Quintero, L. V., & Valencia Cadena, S. (2024). *Análisis de reducción de tasas de natalidad en Colombia: un enfoque con técnicas de aprendizaje automático*. Universidad de Antioquia.
+
+🔗 [Repositorio institucional](http://bibliotecadigital.udea.edu.co)
 
 ---
 
-> ⚠️ Este repositorio se publica con fines educativos y de portafolio. El contenido fue desarrollado con fines académicos y no representa la postura institucional de la Universidad de Antioquia.
-
+> ⚠️ Proyecto publicado con fines académicos y de portafolio.
